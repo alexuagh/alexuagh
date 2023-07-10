@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexuagh
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Kotlin
 
 <!---
 alexuagh/alexuagh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
